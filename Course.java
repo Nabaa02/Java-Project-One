@@ -8,7 +8,7 @@ public class Course{
    * Stores the ID of the course
    */
   private String courseID; 
-  
+  //test
   /*
    * Stores the complete name of the course
    */
